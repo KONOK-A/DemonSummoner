@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="72" viewBox="0 0 92 72">
+  <title>骨箭命中时扬起的三片碎屑</title>
+  <g stroke="#2b242a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#e9d7b2"
+          d="M39.8 26.6 L47.4 15.6 L61.4 5.2 L58.5 13.7 L47.3 25.4 L43.9 26.2 L41 29.3 Z"/>
+    <path fill="#a58370" stroke="none"
+          d="M42.1 26.2 L52.3 16.5 L58 10 L55 16.7 L46.3 24.6 Z"/>
+    <path fill="#b5afac"
+          d="M49.2 34.8 L62 30.8 L81.8 30 L75.1 34.4 L60.6 37.9 L50.9 37.3 Z"/>
+    <path fill="#f0eae0" stroke="none"
+          d="M53.7 35.9 L62.7 32.1 L76.9 31.5 L66.8 34.2 Z"/>
+    <path fill="#b8896e"
+          d="M32.6 42.3 L39.4 44.1 L43.2 49.1 L53.9 61.8 L43.1 56.2 L34.5 47.2 Z"/>
+    <path fill="#dfbb91" stroke="none"
+          d="M35.5 44.1 L38.7 45.9 L43.5 52.2 L38 48.4 Z"/>
+  </g>
+</svg>

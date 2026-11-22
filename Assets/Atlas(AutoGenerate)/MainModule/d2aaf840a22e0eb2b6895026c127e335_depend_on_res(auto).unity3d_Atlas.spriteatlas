@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: d2aaf840a22e0eb2b6895026c127e335_depend_on_res(auto).unity3d_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 4b33a201e431d7b45aa029394679aded, type: 3}
+    - {fileID: 21300000, guid: 261bd0168585b6f4799cb08d61c818a4, type: 3}
+    - {fileID: 21300000, guid: 2aec5a42050e62248b6d742a092d7311, type: 3}
+    - {fileID: 21300000, guid: 3b38a1854a46d85498f8741a31ed1d15, type: 3}
+    - {fileID: 21300000, guid: 634b070b761ed2e4ea81fdf800d6ff05, type: 3}
+    - {fileID: 21300000, guid: 18b1506b41c995d40b1d76053cbc68e1, type: 3}
+    - {fileID: 21300000, guid: 7cb0a9d6b3cd0544a8cac50c719efb6d, type: 3}
+    - {fileID: 21300000, guid: 4e32d65b5e354974ea295899b00cfd3f, type: 3}
+    - {fileID: 21300000, guid: 807a05c557978974caf912bc86596f57, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 4b33a201e431d7b45aa029394679aded: 21300000
+    - 2aec5a42050e62248b6d742a092d7311: 21300000
+    - 3b38a1854a46d85498f8741a31ed1d15: 21300000
+    - 807a05c557978974caf912bc86596f57: 21300000
+    - 261bd0168585b6f4799cb08d61c818a4: 21300000
+    - 7cb0a9d6b3cd0544a8cac50c719efb6d: 21300000
+    - 634b070b761ed2e4ea81fdf800d6ff05: 21300000
+    - 4e32d65b5e354974ea295899b00cfd3f: 21300000
+    - 18b1506b41c995d40b1d76053cbc68e1: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4b33a201e431d7b45aa029394679aded, type: 3}
+  - {fileID: 21300000, guid: 2aec5a42050e62248b6d742a092d7311, type: 3}
+  - {fileID: 21300000, guid: 3b38a1854a46d85498f8741a31ed1d15, type: 3}
+  - {fileID: 21300000, guid: 807a05c557978974caf912bc86596f57, type: 3}
+  - {fileID: 21300000, guid: 261bd0168585b6f4799cb08d61c818a4, type: 3}
+  - {fileID: 21300000, guid: 7cb0a9d6b3cd0544a8cac50c719efb6d, type: 3}
+  - {fileID: 21300000, guid: 634b070b761ed2e4ea81fdf800d6ff05, type: 3}
+  - {fileID: 21300000, guid: 4e32d65b5e354974ea295899b00cfd3f, type: 3}
+  - {fileID: 21300000, guid: 18b1506b41c995d40b1d76053cbc68e1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PastorRetaliation_01
+  - PastorRetaliation_03
+  - PastorRetaliation_06
+  - PastorRetaliation_02
+  - PastorRetaliation_07
+  - PastorRetaliation_05
+  - PastorRetaliation_10
+  - PastorRetaliation_08
+  - PastorRetaliation_04
+  m_RenderDataMap: {}
+  m_Tag: d2aaf840a22e0eb2b6895026c127e335_depend_on_res(auto).unity3d_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mainmodule_sprites.unity3d_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: d50a9a44508921c4d9dcc165e42c75d9, type: 3}
+    - {fileID: 21300000, guid: de4b17f182c48f54eb8468e073434269, type: 3}
+    - {fileID: 21300000, guid: d7f91a3139b37264bbf25648575128ff, type: 3}
+    - {fileID: 21300000, guid: a359d5d85b227d647b0febe4d895cae7, type: 3}
+    - {fileID: 21300000, guid: b5b5ef1cc66f2df4d9daa193275446f0, type: 3}
+    - {fileID: 21300000, guid: ea71e3c078beb4242b2c6fed7ad17c5c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ea71e3c078beb4242b2c6fed7ad17c5c: 21300000
+    - d7f91a3139b37264bbf25648575128ff: 21300000
+    - de4b17f182c48f54eb8468e073434269: 21300000
+    - d50a9a44508921c4d9dcc165e42c75d9: 21300000
+    - a359d5d85b227d647b0febe4d895cae7: 21300000
+    - b5b5ef1cc66f2df4d9daa193275446f0: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ea71e3c078beb4242b2c6fed7ad17c5c, type: 3}
+  - {fileID: 21300000, guid: d7f91a3139b37264bbf25648575128ff, type: 3}
+  - {fileID: 21300000, guid: de4b17f182c48f54eb8468e073434269, type: 3}
+  - {fileID: 21300000, guid: d50a9a44508921c4d9dcc165e42c75d9, type: 3}
+  - {fileID: 21300000, guid: a359d5d85b227d647b0febe4d895cae7, type: 3}
+  - {fileID: 21300000, guid: b5b5ef1cc66f2df4d9daa193275446f0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Skull
+  - LongRange
+  - Attacker
+  - Slime
+  - Shieldguard
+  - Wizard
+  m_RenderDataMap: {}
+  m_Tag: mainmodule_sprites.unity3d_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d093d7ad3c0545d42a9ac40cb9441fa2, type: 3}
+  m_Name: SummonMagicConfig
+  m_EditorClassIdentifier: 
+  StartingMana: 700
+  MaxMana: 1000
+  LastEarlyIncomeTurn: 10
+  EarlyTurnIncome: 60
+  LateTurnIncome: 25
+  SummonMagicList:
+  - summonMagicType: 0
+    ManaCost: 90
+    Weights:
+    - Summon: {fileID: 11400000, guid: 3e9d8b5e1354181458f65666ef0bfcaf, type: 2}
+      Weight: 25
+    - Summon: {fileID: 11400000, guid: 3fb9fe41f0f51b4458f9529f4f976d74, type: 2}
+      Weight: 25
+    - Summon: {fileID: 11400000, guid: 5c4327b0e2bcd9447bb7a25e8a86d17f, type: 2}
+      Weight: 25
+    - Summon: {fileID: 0}
+      Weight: 15
+    - Summon: {fileID: 11400000, guid: 383c5a24949c65a45bf08b02fd741674, type: 2}
+      Weight: 10
+  - summonMagicType: 1
+    ManaCost: 85
+    Weights:
+    - Summon: {fileID: 11400000, guid: 5e4e34b10d517714cb222232f42907e6, type: 2}
+      Weight: 30
+    - Summon: {fileID: 11400000, guid: e7a21dfcdc427854392864de0ac9b25f, type: 2}
+      Weight: 40
+    - Summon: {fileID: 11400000, guid: d40bb5acf1e09bb4ab75fedd2718d58a, type: 2}
+      Weight: 20
+    - Summon: {fileID: 0}
+      Weight: 10
+  - summonMagicType: 2
+    ManaCost: 75
+    Weights:
+    - Summon: {fileID: 11400000, guid: 57e8c2892adc9bb4ead1fc220b6a3a18, type: 2}
+      Weight: 40
+    - Summon: {fileID: 11400000, guid: f9b82736f7c983e469ac05ebdfa9720b, type: 2}
+      Weight: 40
+    - Summon: {fileID: 0}
+      Weight: 20
+  - summonMagicType: 3
+    ManaCost: 80
+    UniformOccupation: 1
+    Weights: []
+  - summonMagicType: 4
+    ManaCost: 95
+    Weights:
+    - Summon: {fileID: 11400000, guid: e7a21dfcdc427854392864de0ac9b25f, type: 2}
+      Weight: 40
+    - Summon: {fileID: 11400000, guid: 99a1566efbc7e9f4d8d314991f7cf8ca, type: 2}
+      Weight: 40
+    - Summon: {fileID: 11400000, guid: 3fb9fe41f0f51b4458f9529f4f976d74, type: 2}
+      Weight: 20
+  - summonMagicType: 5
+    ManaCost: 90
+    Weights:
+    - Summon: {fileID: 11400000, guid: 5c4327b0e2bcd9447bb7a25e8a86d17f, type: 2}
+      Weight: 40
+    - Summon: {fileID: 11400000, guid: d40bb5acf1e09bb4ab75fedd2718d58a, type: 2}
+      Weight: 30
+    - Summon: {fileID: 11400000, guid: 383c5a24949c65a45bf08b02fd741674, type: 2}
+      Weight: 20
+    - Summon: {fileID: 11400000, guid: 883cb0a8dff6c14459dd4f84319db031, type: 2}
+      Weight: 10
+  - summonMagicType: 6
+    ManaCost: 60
+    Weights: []
+  - summonMagicType: 7
+    ManaCost: 0
+    Weights: []

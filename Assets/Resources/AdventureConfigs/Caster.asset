@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7868d5b40d1a57b45934ca3583eb75ba, type: 3}
+  m_Name: Caster
+  m_EditorClassIdentifier: 
+  life: 1700
+  currentLife: 1700
+  Skill1Value: 60
+  Skill2Value: 0.45
+  Skill3Value: 75
+  ExplosionSplashDamage: 45
+  CasterWardRadius: 1

@@ -1,0 +1,53 @@
+# Unity caches and editor state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+
+# Local builds and publishing metadata
+/[Bb]uild/
+/[Bb]uilds/
+/AssetBundles/
+/WebGL Builds/
+/webgl_sharing
+
+# Unity-generated solution and IDE files
+/*.csproj
+/*.sln
+/*.slnx
+/*.suo
+/*.user
+/.vs/
+/.idea/
+/.vscode/
+
+# Local editor integrations
+/.agents/
+/.ai-game-dev/
+/.codex/
+/.kilo/
+/.kilocode/
+/.opencode/
+/AGENTS.md
+/opencode.json
+/.plastic/
+/ignore.conf
+
+# Local planning, tools and QA
+/docs/superpowers/
+/Assets/Editor/
+/Assets/Editor.meta
+/Assets/Plugins/NuGet/
+/Assets/Plugins/NuGet.meta
+/ProjectSettings/Packages/com.unity.connect.share/Settings.json
+
+# Build manifests generated for Windows asset bundles
+/Assets/StreamingAssets/MainModule/StandaloneWindows64/*.manifest
+/Assets/StreamingAssets/MainModule/StandaloneWindows64/*.manifest.meta
+
+# Desktop metadata
+.DS_Store
+Desktop.ini
+Thumbs.db

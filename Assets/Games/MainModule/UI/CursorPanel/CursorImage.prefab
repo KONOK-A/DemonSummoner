@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6735495382252609974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3054405454665444511}
+  - component: {fileID: 7709566389932344304}
+  - component: {fileID: 7893580963035219626}
+  - component: {fileID: 6842761909069589854}
+  - component: {fileID: 5634728332901017729}
+  m_Layer: 5
+  m_Name: CursorImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3054405454665444511
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6735495382252609974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 58, y: 58}
+  m_Pivot: {x: 0.1, y: 0.9}
+--- !u!222 &7709566389932344304
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6735495382252609974}
+  m_CullTransparentMesh: 1
+--- !u!114 &7893580963035219626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6735495382252609974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef8b96895a0ec4ba685178a052544251, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VectorGraphics::Unity.VectorGraphics.SVGImage
+  m_Material: {fileID: 2100000, guid: 8d66e65c66e29504199ed664979682cd, type: 2}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 3286163911610860551, guid: 62dc6ded982628d4fa9c79502ab9763b, type: 3}
+  m_PreserveAspect: 0
+--- !u!114 &6842761909069589854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6735495382252609974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b543812d4edc4c36911ee93fa000561b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  normal: {fileID: 3286163911610860551, guid: 62dc6ded982628d4fa9c79502ab9763b, type: 3}
+  magic: {fileID: 3286163911610860551, guid: 6276bc9a8f2209147a7663f428d339a6, type: 3}
+  attack: {fileID: 3286163911610860551, guid: 129b8a7a71bf6a648b3b323ce1821e69, type: 3}
+  ward: {fileID: 3286163911610860551, guid: aa20d47b7a86b4944bf637ca3b558e22, type: 3}
+  magicBlocked: {fileID: 3286163911610860551, guid: 2df6d2a76dc701c46b9b06ad21a50474, type: 3}
+  attackBlocked: {fileID: 3286163911610860551, guid: e98976f40c7b1b34e95388cf0ce1fe06, type: 3}
+  wardBlocked: {fileID: 3286163911610860551, guid: 8ceaa17ae99a87649ab9fa4b0808d456, type: 3}
+--- !u!114 &5634728332901017729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6735495382252609974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9238b3da8582422ca5a00cef1594420a, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  floorInk: {fileID: 2100000, guid: d9883963376b4bd5ad9a2f648d962bb4, type: 2}
+  castingFlame: {fileID: 21300000, guid: 1bad725288ca41eea7306afa20ab64dc, type: 3}
+  focusSigil: {fileID: 21300000, guid: a6287c0da2d4405583383665fd1eb7f6, type: 3}
+  focusMaterial: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}

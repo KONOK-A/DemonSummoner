@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 86e02cbcd954ebed74a52ff7535ec1bf_depend_on_res(auto).unity3d_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 83e94a436b7421f45b910f81ff9234b6, type: 3}
+    - {fileID: 21300000, guid: 800caee3b901c35428183f33c6e7509a, type: 3}
+    - {fileID: 21300000, guid: 761c2764f4e490d4c816d4f307e6c4c6, type: 3}
+    - {fileID: 21300000, guid: 2c5e335471bbca34f8ed92504dc2995d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 83e94a436b7421f45b910f81ff9234b6: 21300000
+    - 800caee3b901c35428183f33c6e7509a: 21300000
+    - 2c5e335471bbca34f8ed92504dc2995d: 21300000
+    - 761c2764f4e490d4c816d4f307e6c4c6: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 83e94a436b7421f45b910f81ff9234b6, type: 3}
+  - {fileID: 21300000, guid: 800caee3b901c35428183f33c6e7509a, type: 3}
+  - {fileID: 21300000, guid: 2c5e335471bbca34f8ed92504dc2995d, type: 3}
+  - {fileID: 21300000, guid: 761c2764f4e490d4c816d4f307e6c4c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PastorHealing_02
+  - PastorHealing_04
+  - PastorHealing_03
+  - PastorHealing_01
+  m_RenderDataMap: {}
+  m_Tag: 86e02cbcd954ebed74a52ff7535ec1bf_depend_on_res(auto).unity3d_Atlas
+  m_IsVariant: 0

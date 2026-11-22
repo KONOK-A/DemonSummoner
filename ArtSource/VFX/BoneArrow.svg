@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="56" viewBox="0 0 240 56">
+  <title>骷髅射手的骨箭</title>
+  <g stroke="#292127" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#7e4848" stroke-width="2.8"
+          d="M12 10 Q27 11 39 15 L47 19 L44 15 L55 20 L64 26 L59 28 L30 27 L34 24 L23 23 L26 20 L17 19 L19 17 Z"/>
+    <path fill="#a7675a" stroke="none"
+          d="M17 12 Q34 14 43 20 L33 17 L36 20 L24 16 Z M45 20 L54 22 L59 25 L51 24 Z"/>
+    <path fill="#694040" stroke-width="2.8"
+          d="M18 44 L22 38 L17 39 L24 33 L23 30 L53 27 L62 28 L50 35 L48 33 L39 40 L38 37 L28 43 L29 40 Z"/>
+    <path fill="#a16c59" stroke="none"
+          d="M24 38 Q38 31 52 30 L42 34 L38 35 L40 33 Z"/>
+    <path fill="#c39870" stroke-width="2.8"
+          d="M8 25.4 Q30 25.3 55 25.7 L111 25.1 Q149 24.7 193 25.1 L200 28.4 L192 30.4 L111 30 L53 30.4 L15 30.7 L8 32 L5.5 29.7 L10.7 28.2 L5.6 27.6 Z"/>
+    <path fill="#e9d9ac" stroke="none"
+          d="M22 26.6 L59 26.8 Q100 25.7 127 26.2 L184 26.1 L187 27.5 L132 28 L75 27.8 L24 28.2 Z"/>
+    <path fill="none" stroke="#805e4f" stroke-width="1.1"
+          d="M69 29.1 L81 28.6 M107 26.6 L114 26.4 M151 29.1 L163 28.7"/>
+    <path fill="#d8c6a3" stroke-width="1.6"
+          d="M53 24.1 L57 24.4 L59 30.8 L55.4 31.5 Z M59 24.1 L62.1 24.3 L64 30.5 L61 30.9 Z"/>
+    <path fill="#826858" stroke-width="1.8"
+          d="M180 24.1 L194 23.5 L201 26.5 L198 30.5 L181 31 Z"/>
+    <path fill="none" stroke="#e3d4ae" stroke-width="1.7"
+          d="M182 25 L184.4 29.7 M186.5 24.9 L189 29.4 M191.1 24.8 L193.5 29.3"/>
+    <path fill="#a7a6a5" stroke-width="2.8"
+          d="M194 23.8 L202.7 21.4 L198.7 15.1 Q214.7 19.1 236.2 28 Q219.7 31.6 200 40.1 L203 32 L194 31.2 L191.1 28.3 Z"/>
+    <path fill="#e5e1d7" stroke="none"
+          d="M201.5 16.9 Q214.3 20.9 232.8 27.7 L209.6 25.7 L204.6 22.2 Z"/>
+    <path fill="#74727b" stroke="none"
+          d="M195.6 28.7 L208.2 26.6 L232.4 28 L207 31.4 L202.5 36.9 L205.1 30.9 L195.9 30 Z"/>
+    <path fill="none" stroke="#504953" stroke-width="1.15"
+          d="M199.5 28.1 L208.8 26.1 L222 27"/>
+  </g>
+</svg>
